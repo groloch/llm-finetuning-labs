@@ -15,7 +15,7 @@ Each chapter is made of one correction notebook, with implementation and explana
 
 Every the notebook is meant to be usable in a free colab environment. 
 
-To begin, take a look at the [introduction](chapters/1.%20Introduction/finetuning_introduction.ipynb) !
+To begin, take a look at the [introduction](chapters/1.%20Introduction/finetuning_introduction_do_it_yourself.ipynb) !
 
 ## Chapters
 
