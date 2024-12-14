@@ -11,7 +11,7 @@ This repo is made for you !
 
 This repo contains labs to help you understand LLM fine-tuning, its potential and its limits. 
 
-Each chapter is made of one example notebook, with implementation and explanation of a fine-tuning method, and one do-it-yourself notebook so that you can implement the method by yourself. Some chapters even include some insightful documents !
+Each chapter is made of one correction notebook, with implementation and explanation of a fine-tuning method, and one do-it-yourself notebook so that you can implement the method by yourself. Some chapters even include some insightful documents !
 
 Every the notebook is meant to be usable in a free colab environment. 
 
