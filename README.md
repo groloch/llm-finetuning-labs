@@ -13,6 +13,8 @@ This repo contains labs to help you understand LLM fine-tuning, its potential an
 
 Each chapter is made of one example notebook, with implementation and explanation of a fine-tuning method, and one do-it-yourself notebook so that you can implement the method by yourself. Some chapters even include some insightful documents !
 
+Every the notebook is meant to be usable in a free colab environment. 
+
 To begin, take a look at the [introduction](chapters/1.%20Introduction/finetuning_introduction.ipynb) !
 
 ## Chapters
@@ -41,16 +43,3 @@ Of course, fine-tuning isn’t without its challenges. The biggest risk? Overfit
     (And about 1,000 other questions that’ll pop up along the way.)
 
 The good news? With the right strategy, fine-tuning lets us get the most out of LLMs. The goal of this lab series is to guide everyone — from curious beginners to home experimenters to seasoned professionals — in mastering the art and science of fine-tuning. Let’s demystify it together! 
-
-
-## How to
-
-First of all, the labs in this repo focus mainly on LLMs, but some methods should be transferrable to other fields of AI. Therefore, whether you're passionate about AI or simply curious, we hope you have something to learn and to enjoy here.
-
-If I were you, I would pick a notebook (start by the beginning!) and try my best to complete it using information found online. I would then compare my result with the correction. But you're free to do the way you want! I'd still recommend you take time to read all the text in the notebooks (maybe because it took me a lot of time to write it).
-
-All the notebooks are meant to be runnable both locally and on colab. I strongly recommend you use a GPU though, as LLMs are quite compute-intensive. 
-
-
-
-
