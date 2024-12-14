@@ -31,15 +31,15 @@ But as powerful as they are, foundation models are still "generalists." They’r
 
 Here’s how fine-tuning tackles some big challenges with foundation models:
 
-    Resource Efficiency: Training a new model from scratch needs a ton of resources, but fine-tuning? It can be done on a single GPU.
-    Domain Adaptation: Need a model that "speaks" finance, law, or healthcare lingo? Fine-tuning makes models fluent in specialized fields, so they’re more accurate and useful.
-    Keeping Up with Change: As your organization learns and grows, fine-tuned models can be updated with new data. This keeps them aligned with your latest knowledge and reduces the risk of "data drift" over time.
+- Resource Efficiency: Training a new model from scratch needs a ton of resources, but fine-tuning? It can be done on a single GPU.
+- Domain Adaptation: Need a model that "speaks" finance, law, or healthcare lingo? Fine-tuning makes models fluent in specialized fields, so they’re more accurate and useful.
+- Keeping Up with Change: As your organization learns and grows, fine-tuned models can be updated with new data. This keeps them aligned with your latest knowledge and reduces the risk of "data drift" over time.
 
 Of course, fine-tuning isn’t without its challenges. The biggest risk? Overfitting (when a model gets too focused on the fine-tuning data and "forgets" how to generalize). But beyond that, you’re bound to have a bunch of questions like:
 
-    Which model should I choose? Do I go big (~70B parameters), medium (~7B), or small (<3B)? Am I crazy for even considering tiny models?
-    Which fine-tuning method should I use? There are so many options—it’s hard to know which is best.
-    How do I pick the right hyperparameters? And seriously, how much does it matter?
-    (And about 1,000 other questions that’ll pop up along the way.)
+- Which model should I choose? Do I go big (~70B parameters), medium (~7B), or small (<3B)? Am I crazy for even considering tiny models?
+- Which fine-tuning method should I use? There are so many options—it’s hard to know which is best.
+- How do I pick the right hyperparameters? And seriously, how much does it matter?
+(And about 1,000 other questions that’ll pop up along the way.)
 
 The good news? With the right strategy, fine-tuning lets us get the most out of LLMs. The goal of this lab series is to guide everyone — from curious beginners to home experimenters to seasoned professionals — in mastering the art and science of fine-tuning. Let’s demystify it together! 
